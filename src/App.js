@@ -5,6 +5,7 @@ function App() {
   const a = 3;
   return (
     <div className="App">
+      {a}
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
